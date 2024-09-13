@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family:haas ;
+    src: url('../src/font/Neue\ Haas\ Grotesk\ Display\ Pro\ 75\ Bold.ttf');
+}
